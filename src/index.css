@@ -1,0 +1,73 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+.navbar-List{
+  background-color: rgb(243, 229, 157);
+  list-style: none;
+  border-radius: 10px;
+}
+.NAVA{
+  margin: 10px;
+  
+}
+.NAVB{
+  padding: 10px;
+  text-align: right;
+}
+
+
+.TrendA{
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.TRENDB{
+  display: flex;
+}
+
+/* YourComponent.css */
+.container {
+  display: flex;
+  flex-direction: column; /* Optional: Set the container to column direction */
+  align-items: center; /* Optional: Center the content horizontally */
+}
+
+.image-row {
+  display: flex;
+}
+
+.image-card {
+  flex: 1;
+  padding: 10px;
+  text-align: center; /* Optional: Center the image and caption horizontally */
+}
+
+img {
+  max-width: 100%;
+  height: 200px;
+}
+
+.SLIDIMGA{
+  padding: 10px;
+  margin-top: 100px;
+}
+
+.footer-bottom{
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: 50px;
+  width :auto;
+  border-radius: 20px;
+  padding: 20px;
+  font-display: 30px;
+}
+
+.STUD{
+  text-align: center;
+  font-size: 25px;
+}
+
+.LINE1{
+background-image: url('https://thumbs.dreamstime.com/z/color-pills-pharmaceutical-medicine-capsules-assorted-different-85221984.jpg');
+}

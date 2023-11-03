@@ -1,0 +1,55 @@
+/* ButtonComponent.css */
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(226, 135, 15);
+  }
+  
+  .button {
+    margin: 10px;
+    font-size: 50px;
+    padding: 10px 20px;
+    background-color: #e8ebef;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 239px;
+    height: 239px;
+  }
+  
+  .button:hover {
+    background-color: #e4ebf3;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  
+
+  .NAVA{
+    /* background-color: #1e76da; */
+    margin: 0px !important;
+
+  }
+
+
+  /* navbars services css */
+
+  .NAVC{
+    height: 80px;
+  }
+
+  .NAVB{
+margin: -25px !important;
+margin-right: 5px !important;
+  }
+
+
+  .zandu1{
+    
+    height: 500px;
+  }

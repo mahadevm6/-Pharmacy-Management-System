@@ -1,0 +1,95 @@
+/* Style for the table container */
+.H1 {
+    margin: 20px;
+}
+
+/* Style for the table header */
+.H2 h2 {
+    background-color: #007bff; /* Header background color */
+    color: #fff; /* Header text color */
+    padding: 10px;
+}
+
+/* Style for the "Add" button */
+.btn-success {
+    background-color: #28a745; /* Success button background color */
+    color: #fff; /* Success button text color */
+    margin: 10px 0; /* Adjust top and bottom margins */
+    float: right;
+}
+
+/* Style for the table */
+.table {
+    width: 80%; /* Adjust the width to make it smaller */
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+/* Style for table headers */
+.table th {
+    background-color: #007bff; /* Header background color */
+    color: #fff; /* Header text color */
+    text-align: left;
+    padding: 10px;
+}
+
+/* Style for table rows */
+.table td {
+    border-bottom: 1px solid #ccc; /* Add a border between rows */
+    padding: 10px;
+}
+
+/* Style for alternating row colors */
+.table tbody tr:nth-child(even) {
+    background-color: #eaadad; /* Light gray background for even rows */
+}
+
+/* Style for action buttons */
+.btn-primary {
+    background-color: #007bff; /* Primary button background color */
+    color: #fff; /* Primary button text color */
+    margin-right: 5px;
+}
+
+.btn-danger {
+    background-color: #dc3545; /* Danger button background color */
+    color: #fff; /* Danger button text color */
+}
+/* Style for the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+/* Style for table headers */
+table th {
+    background-color: #e1e6eb; /* Header background color */
+    color: #fff; /* Header text color */
+    text-align: left;
+    padding: 10px;
+    border-bottom: 2px solid #ccc; /* Add a bottom border to header cells */
+}
+
+/* Style for table rows */
+table td {
+    border-bottom: 1px solid #ccc; /* Add a bottom border to table cells */
+    padding: 10px;
+}
+
+/* Style for alternating row colors */
+table tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* Light gray background for even rows */
+}
+
+/* Style for action buttons */
+.btn-primary {
+    background-color: #14dbed; /* Primary button background color */
+    color: #fff; /* Primary button text color */
+    margin-right: 5px;
+}
+
+.btn-danger {
+    background-color: #dc3545; /* Danger button background color */
+    color: #fff; /* Danger button text color */
+}

@@ -1,0 +1,43 @@
+
+.LOG2{
+  background-image: url("./images/baground.jpeg");
+  height: 653px;
+}
+
+.abc {
+    padding: 20px;
+    width: 300px;
+    margin-top: 150px;
+    margin-left: 550px;
+    align-items: center;
+    font-size: 15px;
+  }
+    
+  label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
