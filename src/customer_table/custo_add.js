@@ -29,7 +29,7 @@ function Create() {
         <form onSubmit={handleSubmit}>
           <h2>New Customer</h2>
           <div className='mb-2'>
-            <label htmlFor=''>Customer11 and 22 and 33 and 44 Name Enter and customer address</label>
+            <label htmlFor=''>Customer11 and 22 and 33 and 44 and 55 66 Name Enter and customer address</label>
             <input
               type='text'
               placeholder='Enter Customer Name'
