@@ -29,11 +29,15 @@ function Create() {
         <form onSubmit={handleSubmit}>
           <h2>New Customer</h2>
           <div className='mb-2'>
+<<<<<<< HEAD
             <label htmlFor=''>Customer11 and 22 and 33 and 44 and 55 66 Name Enter and customer address</label>
+=======
+            <label htmlFor=''>Customer11 and 22 and 33 Name Enter and customer address</label>
+>>>>>>> parent of 88680ef (updated fileTWO)
             <input
               type='text'
               placeholder='Enter Customer Name'
-              className='form-control' 
+              className='form-control'
               onChange={(e) =>
                 setValues({ ...values, customer_name: e.target.value })
               }
